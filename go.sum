@@ -1,0 +1,10 @@
+github.com/gr1zler/animalPackage v1.0.4 h1:qPfCvkdtRmIl4onVJjpNE4ADTBqxZXCv2l5E2jOFy3k=
+github.com/gr1zler/animalPackage v1.0.4/go.mod h1:5quDb3XmK0O7ns/woAqAFhorW53Wudb6OnToUiXGHMQ=
+github.com/gr1zler/animalPackage v1.0.5 h1:DXLBQ5KckoG9VcJgzf1qn67WusX0wAwhTvLQk37Dr+M=
+github.com/gr1zler/animalPackage v1.0.5/go.mod h1:5quDb3XmK0O7ns/woAqAFhorW53Wudb6OnToUiXGHMQ=
+github.com/gr1zler/animalPackage v1.0.8 h1:o25NIxg4LFIED8jC+j0nvDfJi3tRdGQgVddwnF9Ne68=
+github.com/gr1zler/animalPackage v1.0.8/go.mod h1:5quDb3XmK0O7ns/woAqAFhorW53Wudb6OnToUiXGHMQ=
+golang.org/x/crypto v0.28.0 h1:GBDwsMXVQi34v5CCYUm2jkJvu4cbtru2U4TN2PSyQnw=
+golang.org/x/crypto v0.28.0/go.mod h1:rmgy+3RHxRZMyY0jjAJShp2zgEdOqj2AO7U0pYmeQ7U=
+golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c h1:7dEasQXItcW1xKJ2+gg5VOiBnqWrJc+rq0DPKyvvdbY=
+golang.org/x/exp v0.0.0-20241009180824-f66d83c29e7c/go.mod h1:NQtJDoLvd6faHhE7m4T/1IY708gDefGGjR/iUW8yQQ8=
